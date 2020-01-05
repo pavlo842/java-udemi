@@ -18,11 +18,11 @@ public class HomeWork {
 
         // short
         short sh1Dec = -1300;
-//        short sh2Oct = 02424;
+        short sh2Oct = -02424;
         short sh3Bin = -0B10100010100;
         short sh4Hex = -0x000514;
 
-//        System.out.println(sh4Hex);
+//        System.out.println(sh2Oct);
 
         // int
         int i1 = 0;
@@ -37,7 +37,7 @@ public class HomeWork {
 
         // long
         long l1 = 123456789L;
-//        long l2Oct = 0‭726746425‬;
+//        long l2Oct = 0‭726746425L;
         long l3Bin = 0B111010110111100110100010101;
         long l4Hex = 0X75BCD15;
 
