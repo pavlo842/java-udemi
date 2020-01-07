@@ -25,6 +25,6 @@ public class Test5 {
 //        System.out.println(a);
 //        System.out.println(b);
 //        System.out.println(c);
-        ПРОДОЛЖИТЬ НА 48 минуте
+//        ПРОДОЛЖИТЬ НА 48 минуте
     }
 }
