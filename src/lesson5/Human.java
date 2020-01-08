@@ -5,9 +5,9 @@ public class Human {
     Car3 car;
     BankAccount bA;
 
-    void info() {
-        System.out.println("Imya: " + name + " cvet: " + car.color + " Balance bank scheta: " + bA.balance);
-    }
+//    void info() {
+//        System.out.println("Imya: " + name + " cvet: " + car.color + " Balance bank scheta: " + bA.balance);
+//    }
 
 }
 
@@ -18,7 +18,7 @@ class HumanTest {
         h.car = new Car3("Yellow", "V12");
         h.bA = new BankAccount(23, 145.14);
 
-        h.info();
+//        h.info();
     }
 }
 
