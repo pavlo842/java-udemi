@@ -16,14 +16,14 @@ public class Test10 {
 //            System.out.println("a NE menshe 20");
 //        System.out.println("Hello");
 
-        int salary = 400;
-        if (salary >= 500) {
-            System.out.println(":)");
-        } else { // Сдесь всегда false
-            System.out.println(":(");
-            System.out.println("Hello");
-        }
+//        int salary = 400;
+//        if (salary >= 500) {
+//            System.out.println(":)");
+//        } else { // Сдесь всегда false
+//            System.out.println(":(");
+//            System.out.println("Hello");
+//        }
 
-        продолжить на 24-50
+//        продолжить на 24-50
     }
 }
