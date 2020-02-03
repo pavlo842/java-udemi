@@ -10,6 +10,3 @@ public class Test14_3 {
         }
     }
 }
-
-
-51.50
