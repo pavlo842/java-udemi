@@ -11,7 +11,10 @@ public class Test16_9 {
         String s4 = "hello";
         System.out.println(s3 == s4); // true
         System.out.println(s3.equals(s4)); // true
+        System.out.println(s1 != s4);
+
+        String s5 = "Kak dela?";
+        String s6 = "kak dela?";
+        System.out.println(s5.equalsIgnoreCase(s6));
     }
 }
-
-2:00
