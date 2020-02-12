@@ -9,4 +9,4 @@ public class Test15_3 {
         System.out.println(a);
     }
 }
-25:30
+// 25:30
