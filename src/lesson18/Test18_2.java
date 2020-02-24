@@ -9,6 +9,7 @@ public class Test18_2 {
 
         int [] array1;
         array1 = new int[]{1, 2, 3};
+
+        int [] array4 = new int[] {1, 2, 3};
     }
 }
-1.00
